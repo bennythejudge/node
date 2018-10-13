@@ -25,6 +25,8 @@ If you need help using or installing Node.js, please use the
 
 # Table of Contents
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/node.svg)](https://www.guardrails.io)
+
 * [Resources for Newcomers](#resources-for-newcomers)
 * [Release Types](#release-types)
   * [Download](#download)
